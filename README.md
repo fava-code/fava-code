@@ -2,7 +2,7 @@
 - 👀 I’m interested in Frontend Development.
 - 🌱 I’m currently learning (Html CSS), Javascript and Python.
 - 💞️ I’m looking to collaborate with other incredible developers.
-- 📫 How to reach me fohenhen@gmail.com.
+- 📫 How to reach me fohenhen7@gmail.com.
 - ⚡ Fun fact: I love reading, watching crime documentaries and anime😊.
 
 <!---
